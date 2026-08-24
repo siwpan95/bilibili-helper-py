@@ -1,0 +1,16 @@
+{
+  "output_dir": "d:\\allin\\tools\\bilibili-helper-py\\output",
+  "quality": "最佳质量",
+  "engine_mode": "auto",
+  "playwright_headless": true,
+  "proxy_enabled": false,
+  "proxy_server": "",
+  "proxy_username": "",
+  "proxy_password": "",
+  "proxy_bypass": "localhost,127.0.0.1",
+  "cookies_from_browser": "无",
+  "save_separate_streams": true,
+  "engine": "yt-dlp",
+  "cookie_path": "",
+  "use_cookie_browser": true
+}

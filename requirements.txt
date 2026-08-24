@@ -1,0 +1,4 @@
+# bilibili-helper-py dependencies (auto-generated 2026-08-20)
+requests
+socks
+yt_dlp
