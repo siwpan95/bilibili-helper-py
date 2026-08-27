@@ -4,6 +4,5 @@
   "entry": "ui.py",
   "interface": ["fetch", "download"],
   "description": "B站视频/弹幕下载与处理，多引擎架构，支持 SOCKS5 代理",
-  "python": "auto",
-  "kit": { "session": "^1" }
+  "python": "auto"
 }
