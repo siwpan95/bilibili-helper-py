@@ -1,5 +1,7 @@
 # B站视频下载助手 - Python桌面版 v2.1
 
+> 仓库：<https://gitee.com/siwpan/bilibili-helper-py> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+
 原 Chrome 扩展的独立桌面版本，基于 Playwright 浏览器自动化，可直接使用浏览器登录状态下载视频。
 
 ## 🎯 功能特性
