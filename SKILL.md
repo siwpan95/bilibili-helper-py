@@ -1,6 +1,6 @@
-﻿---
+---
 name: bilibili-helper
-description: Maintain bilibili-helper-py (G:/tools/crawler/bilibili-helper-py). Bilibili video downloader with Playwright.
+description: Maintain bilibili-helper-py (本 SKILL.md 所在仓库根). Bilibili video downloader with Playwright.
 agent_created: true
 ---
 
